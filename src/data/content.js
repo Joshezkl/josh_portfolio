@@ -270,6 +270,38 @@ export const certificates = [
       "Foundational certification covering network components, cabling, OSI and TCP/IP models, IPv4 addressing, and essential networking concepts.",
     file: "/certificates/networking-basics.pdf",
   },
+  {
+    id: 4,
+    title: "Python Essentials 2",
+    issuer: "Cisco Networking Academy",
+    year: "2026",
+    description:
+      "Intermediate Python certification covering modules, packages, exceptions, file handling, and object-oriented programming concepts.",
+  },
+  {
+    id: 5,
+    title: "Hardware and Upgrade Support",
+    issuer: "Cisco Networking Academy",
+    year: "2026",
+    description:
+      "Certification focused on installing, configuring, and upgrading computer hardware components and supporting end-user devices.",
+  },
+  {
+    id: 6,
+    title: "Computer Hardware Basics",
+    issuer: "Cisco Networking Academy",
+    year: "2026",
+    description:
+      "Foundational course covering computer components, internal hardware, peripherals, and essential troubleshooting concepts.",
+  },
+  {
+    id: 7,
+    title: "Network Defense",
+    issuer: "Cisco Networking Academy",
+    year: "2026",
+    description:
+      "Certification covering network security principles, threat mitigation, access control, and defensive strategies for protecting systems.",
+  },
 ];
 
 export const contactLinks = [
