@@ -3,7 +3,7 @@ export const profile = {
   shortName: "Josh Ezekiel Delos Santos",
   title: "Web & Mobile Developer",
   tagline: "Building thoughtful digital experiences across web, mobile, and design.",
-  bio: "BSIT graduate specializing in Web & Mobile Technologies, with Cisco certifications in Cybersecurity, Python Essentials, and Networking Basics. I bridge full-stack development and user-centered design through hands-on work on web, mobile, and AR projects. Experienced with React.js, Flutter, Laravel, and Node.js from academic leadership roles, capstone research, and a full-stack internship at When In Baguio Inc. Adaptable and committed to delivering reliable, thoughtful digital solutions.",
+  bio: "BSIT graduate specializing in Web & Mobile Technologies, with Cisco certifications in Cybersecurity, Python Essentials, Networking Basics, Computer Hardware, and Hardware Support. I bridge full-stack development and user-centered design through hands-on work on web, mobile, and AR projects. Experienced with React.js, Flutter, Laravel, and Node.js from academic leadership roles, capstone research, and a full-stack internship at When In Baguio Inc. Adaptable and committed to delivering reliable, thoughtful digital solutions.",
   location: "Rosales, Pangasinan",
   email: "delossantosjoshezekiel@gmail.com",
   phone: "+63 9691 638 486",
@@ -285,6 +285,7 @@ export const certificates = [
     year: "2026",
     description:
       "Certification focused on installing, configuring, and upgrading computer hardware components and supporting end-user devices.",
+    file: "/certificates/Hardware_and_Upgrade_Support_certificate_delossantosjoshezekiel-gmail-com_800b1f45-0165-4a44-b1e8-1299a40655db.pdf",
   },
   {
     id: 6,
@@ -293,6 +294,7 @@ export const certificates = [
     year: "2026",
     description:
       "Foundational course covering computer components, internal hardware, peripherals, and essential troubleshooting concepts.",
+    file: "/certificates/Computer_Hardware_Basics_certificate_delossantosjoshezekiel-gmail-com_30a3a3a3-92e0-46f4-8b8d-e5a3f4fc2b29.pdf",
   },
   {
     id: 7,
