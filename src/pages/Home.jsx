@@ -86,7 +86,7 @@ export default function Home() {
           <div className="lg:col-span-3">
             <p className="text-base sm:text-lg text-ink-muted dark:text-ink-dark-muted leading-relaxed font-light">
               BSIT graduate specializing in Web & Mobile Technologies, with Cisco
-              certifications in Cybersecurity, Python Essentials, Networking Basics,
+              certifications in Cybersecurity, Python Essentials 1 & 2, Networking Basics,
               Computer Hardware, and Hardware Support. I bridge{" "}
               <span className="text-brand dark:text-brand-light font-medium">
                 full-stack development
@@ -251,8 +251,8 @@ export default function Home() {
                 Certifications
               </h3>
               <p className="text-sm text-ink-muted dark:text-ink-dark-muted leading-relaxed">
-                Cisco Networking Academy — Cybersecurity, Python, Networking,
-                Computer Hardware & Upgrade Support
+                Cisco Networking Academy — Cybersecurity, Python Essentials 1 & 2,
+                Networking, Computer Hardware & Upgrade Support
               </p>
             </div>
             <Link

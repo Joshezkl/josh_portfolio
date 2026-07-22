@@ -3,7 +3,7 @@ export const profile = {
   shortName: "Josh Ezekiel Delos Santos",
   title: "Web & Mobile Developer",
   tagline: "Building thoughtful digital experiences across web, mobile, and design.",
-  bio: "BSIT graduate specializing in Web & Mobile Technologies, with Cisco certifications in Cybersecurity, Python Essentials, Networking Basics, Computer Hardware, and Hardware Support. I bridge full-stack development and user-centered design through hands-on work on web, mobile, and AR projects. Experienced with React.js, Flutter, Laravel, and Node.js from academic leadership roles, capstone research, and a full-stack internship at When In Baguio Inc. Adaptable and committed to delivering reliable, thoughtful digital solutions.",
+  bio: "BSIT graduate specializing in Web & Mobile Technologies, with Cisco certifications in Cybersecurity, Python Essentials 1 & 2, Networking Basics, Computer Hardware, and Hardware Support. I bridge full-stack development and user-centered design through hands-on work on web, mobile, and AR projects. Experienced with React.js, Flutter, Laravel, and Node.js from academic leadership roles, capstone research, and a full-stack internship at When In Baguio Inc. Adaptable and committed to delivering reliable, thoughtful digital solutions.",
   location: "Rosales, Pangasinan",
   email: "delossantosjoshezekiel@gmail.com",
   phone: "+63 9691 638 486",
@@ -12,7 +12,7 @@ export const profile = {
     url: "https://www.linkedin.com/in/josh-ezekiel-delos-santos-72280b339/",
     handle: "in/josh-ezekiel-delos-santos-72280b339",
   },
-  resume: "/Delos%20Santos,%20Josh%20Ezekiel_CV.pdf",
+  resume: "/Delos%20_Santos_Josh_Ezekiel_CV.pdf",
   photo: "/josh-profile.png",
 };
 
@@ -277,6 +277,7 @@ export const certificates = [
     year: "2026",
     description:
       "Intermediate Python certification covering modules, packages, exceptions, file handling, and object-oriented programming concepts.",
+    file: "/certificates/Python_Essentials_2_certificate_delossantosjoshezekiel-gmail-com_8408c32e-b102-4935-b073-baf6416a669f.pdf",
   },
   {
     id: 5,
