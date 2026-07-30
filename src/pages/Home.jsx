@@ -252,7 +252,10 @@ export default function Home() {
               </h3>
               <p className="text-sm text-ink-muted dark:text-ink-dark-muted leading-relaxed">
                 Cisco Networking Academy — Cybersecurity, Python Essentials 1 & 2,
-                Networking, Computer Hardware & Upgrade Support
+                Networking Basics, Computer Hardware & Upgrade Support, Introduction to Modern AI, Network Defense
+              </p>
+              <p className="text-sm text-ink-muted dark:text-ink-dark-muted leading-relaxed mt-2">
+                Coursera — AI for App Building, Google AI Essentials, Google IT Support
               </p>
             </div>
             <Link

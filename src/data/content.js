@@ -299,11 +299,47 @@ export const certificates = [
   },
   {
     id: 7,
+    title: "Introduction to Modern AI",
+    issuer: "Cisco Networking Academy",
+    year: "2026",
+    description:
+      "Foundational certification covering modern AI concepts, prompt engineering, responsible AI use, and practical applications in everyday technology.",
+    file: "/certificates/Introduction_to_Modern_AI_certificate_delossantosjoshezekiel-gmail-com_a69ea7ca-9c54-419a-ba76-e1fd08f5f3c5.pdf",
+  },
+  {
+    id: 8,
     title: "Network Defense",
     issuer: "Cisco Networking Academy",
     year: "2026",
     description:
       "Certification covering network security principles, threat mitigation, access control, and defensive strategies for protecting systems.",
+    file: "/certificates/Network_Defense_certificate_delossantosjoshezekiel-gmail-com_d2c28168-2dbe-4797-945f-560fb1d515ea.pdf",
+  },
+  {
+    id: 9,
+    title: "AI for App Building",
+    issuer: "Coursera",
+    year: "2026",
+    description:
+      "Course focused on applying AI concepts and tools to build smarter applications with practical product and development workflows.",
+    file: "/certificates/Coursera_AI for App Building.pdf",
+  },
+  {
+    id: 10,
+    title: "Google AI Essentials",
+    issuer: "Google / Coursera",
+    year: "2026",
+    description:
+      "Foundational course introducing generative AI concepts, responsible use, and practical ways to leverage AI in everyday work.",
+    file: "/certificates/Google AI Essentials.pdf",
+  },
+  {
+    id: 11,
+    title: "Google IT Support",
+    issuer: "Google / Coursera",
+    year: "2026",
+    description:
+      "Foundational IT support training covering troubleshooting, customer support, networking, operating systems, and common technical support workflows.",
   },
 ];
 
