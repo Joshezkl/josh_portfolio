@@ -12,7 +12,7 @@ export const profile = {
     url: "https://www.linkedin.com/in/josh-ezekiel-delos-santos-72280b339/",
     handle: "in/josh-ezekiel-delos-santos-72280b339",
   },
-  resume: "/Delos%20_Santos_Josh_Ezekiel_CV.pdf",
+  resume: "/Delos%20_Santos_JoshEzekiel_CV.pdf",
   photo: "/josh-profile.png",
 };
 
