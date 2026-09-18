@@ -12,7 +12,7 @@ export const profile = {
     url: "https://www.linkedin.com/in/josh-ezekiel-delos-santos-72280b339/",
     handle: "in/josh-ezekiel-delos-santos-72280b339",
   },
-  resume: "/Delos%20_Santos_JoshEzekiel_CV.pdf",
+  resume: "/Delos%20_Santos_Josh_Ezekiel_cv.pdf",
   photo: "/josh-profile.png",
 };
 
@@ -51,17 +51,27 @@ export const securitySkills = [
 export const experience = [
   {
     id: 1,
-    role: "Full Stack Developer Intern (OJT)",
-    company: "When In Baguio Inc.",
-    location: "Baguio City",
-    period: "Feb 2026 — May 2026",
+    role: "IT Support Staff",
+    company: "Municipality of Rosales – Local Government Unit",
+    location: "Rosales, Pangasinan",
+    period: "Jul 2026 — Present",
     featured: true,
     description:
-      "Assisted in developing and improving core features of the When In Baguio mobile application using Flutter, focusing on UI enhancements and performance improvements. Supported the development and maintenance of the backend operations website using React.js and Node.js, ensuring smooth data handling and admin workflows. Helped deploy and manage web services using cPanel, including hosting setup, file management, and system updates.",
-    tech: ["Flutter", "React.js", "Node.js", "cPanel"],
+      "Provide technical support and troubleshooting for computers, printers, network connectivity, and other IT-related concerns. Assist municipal personnel with hardware, software, and system-related issues. Perform basic computer maintenance, installation, configuration, and troubleshooting. Support day-to-day IT operations and help ensure reliable availability of computer equipment and systems.",
+    tech: ["IT Support", "Hardware Troubleshooting", "Network Support", "Computer Maintenance"],
   },
   {
     id: 2,
+    role: "Full Stack Developer Intern (OJT)",
+    company: "When In Baguio Inc.",
+    location: "Baguio City, Benguet",
+    period: "Feb 2026 — May 2026",
+    description:
+      "Assisted in developing and improving core features of the When In Baguio mobile application using Flutter, focusing on UI enhancements and basic performance improvements. Supported the development and maintenance of the backend operations website using React.js and Node.js, ensuring smooth data handling and admin workflows. Helped deploy and manage web services using cPanel, including basic hosting setup, file management, and system updates.",
+    tech: ["Flutter", "React.js", "Node.js", "cPanel"],
+  },
+  {
+    id: 3,
     role: "Lead Developer & Researcher (Capstone)",
     company: "PCVision AR",
     location: "Pangasinan State University",
@@ -71,7 +81,7 @@ export const experience = [
     tech: ["Flutter", "ARCore", "Firebase"],
   },
   {
-    id: 3,
+    id: 4,
     role: "Lead Developer & Front-End Lead",
     company: "PSU OJT Management Portal",
     location: "Pangasinan State University",
@@ -81,7 +91,7 @@ export const experience = [
     tech: ["Node.js", "React.js"],
   },
   {
-    id: 4,
+    id: 5,
     role: "Project Leader and Backend Programmer",
     company: "PSU Transfer Credential System",
     location: "Pangasinan State University",

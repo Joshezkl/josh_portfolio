@@ -133,7 +133,7 @@ export default function Home() {
             </h2>
           </div>
           <p className="text-sm text-ink-muted dark:text-ink-dark-muted max-w-xs">
-            Academic projects, capstone leadership, and professional internship experience.
+            Academic projects, IT support work, capstone leadership, and professional internship experience.
           </p>
         </div>
 
